@@ -1,0 +1,8 @@
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\bin\Debug\Caso_01.exe.config
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\bin\Debug\Caso_01.exe
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\bin\Debug\Caso_01.pdb
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\obj\Debug\Caso_01.csproj.AssemblyReference.cache
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\obj\Debug\Caso_01.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\obj\Debug\Caso_01.csproj.CoreCompileInputs.cache
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\obj\Debug\Caso_01.exe
+D:\Documentos\OneDrive UPN\OneDrive - Universidad Privada del Norte\Ciclos Académicos\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC6\Caso_01\Caso_01\obj\Debug\Caso_01.pdb
